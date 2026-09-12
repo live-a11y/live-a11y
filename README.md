@@ -1,35 +1,42 @@
 # Liu Hao / 刘昊
 
-Artist, composer, and software developer working across AI-generated art, electronic music, audiovisual systems, iOS music tools, and creative coding.
+**New media artist, composer, and independent software developer.**
 
-My work connects art, music, code, and software instruments. I build personal tools, audiovisual systems, experimental music software, and generative visual projects.
+I work across electronic music, real-time audiovisual systems, generative and computational visual processes, interactive media, and software instruments. My practice connects sound, image, computation, and interaction as parts of the same creative field.
 
-## Official archive
+## Official site
 
-* **Website:** https://liuhao-art.com/
-* **Works:** https://liuhao-art.com/works/works.html
-* **Apps & Systems:** https://liuhao-art.com/apps/apps.html
-* **Timeline:** https://liuhao-art.com/timeline/timeline.html
-* **Contact:** https://liuhao-art.com/contact/contact.html
+- **Website:** https://liuhao-art.com
+- **Works:** https://liuhao-art.com/works/works
+- **Apps & Software:** https://liuhao-art.com/apps/apps
+- **Timeline:** https://liuhao-art.com/timeline/timeline
+- **Contact:** https://liuhao-art.com/contact/contact
 
-## Main areas
+## Works
 
-* AI-generated art
-* Electronic music
-* Audiovisual systems
-* iOS music tools
-* Creative coding
-* Software instruments
-* Generative visual systems
-* OSC control tools
-* Max/MSP, Jitter, Csound, OpenFrameworks, Unreal Engine
+- **The CONV** — real-time 3D audiovisual work  
+  https://liuhao-art.com/works/the-conv
 
-## Public code
+- **Fragment** — real-time audiovisual work  
+  https://liuhao-art.com/works/fragment
 
-### PulseLoom
+- **XII** — audiovisual work and software system exploring twelve-tone composition and spatialized sound  
+  https://liuhao-art.com/works/xii
 
-PulseLoom is a standalone desktop OSC sequencing tool for experimental music, modular/interactive setups, and custom audio workflows.
+- **i Touch the Moon** — interactive performance work connecting gesture, sound, and visual response  
+  https://liuhao-art.com/works/i-touch-the-moon
 
-* Repository: https://github.com/live-a11y/PulseLoom
-* Download: https://github.com/live-a11y/PulseLoom/releases/tag/v0.210
-* Related archive page: https://liuhao-art.com/apps/apps.html
+- **The Flying Lines** — real-time audiovisual work with electroacoustic music  
+  https://liuhao-art.com/works/the-flying-lines
+
+## Software & systems
+
+- **LH RESISTOR** — software instrument and audio plugin  
+  https://liuhao-art.com/apps/apps
+
+- **PulseLoom** — OSC sequencing software for experimental music and interactive systems  
+  https://github.com/live-a11y/PulseLoom
+
+## Elsewhere
+
+- **YouTube:** https://www.youtube.com/@liveliu1986
