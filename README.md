@@ -1,7 +1,7 @@
 Liu Hao / 刘昊
 
 
-New media artist, composer, and independent software developer.
+**New media artist, composer, and independent software developer.**
 
 Also credited as Hao Liu (given-name-first order).
 
