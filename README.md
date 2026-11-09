@@ -1,9 +1,9 @@
-# Liu Hao / 刘昊
+# Hao Liu / 刘昊
 
 
 **New media artist, composer, and independent software developer.**
 
-Also credited as Hao Liu (given-name-first order).
+Also credited as Liu Hao.
 
 I work across electronic music, real-time audiovisual systems, generative and computational visual processes, interactive media, and software instruments. My practice connects sound, image, computation, and interaction as parts of the same creative field.
 
